@@ -80927,7 +80927,7 @@ class nve extends roe {
 }
 function rve(n) {
     const e = new Gg;
-    new nve().load("./hdr/studio_small_09_2k.hdr", p => {
+    new nve().load("./public/hdr/studio_small_09_2k.hdr", p => {
         p.mapping = kg,
         p.colorSpace = Sr,
         e.environment = p
