@@ -90447,7 +90447,7 @@ const fa = be.createContext()
     fadeInAvatar: 4
 }
   , twe = new PA
-  , wV = twe.load("./textures/beam2.png");
+  , wV = twe.load("./public/textures/beam2.png");
 wV.wrapS = zs;
 class nwe {
     constructor(e, t, r) {
@@ -90629,9 +90629,9 @@ class nwe {
     }
 }
 const _V = new PA
-  , FT = _V.load("./textures/pixel9.png");
+  , FT = _V.load("./public/textures/pixel9.png");
 FT.wrapS = FT.wrapT = zs;
-const PT = _V.load("./textures/noise3.jpg");
+const PT = _V.load("./public/textures/noise3.jpg");
 PT.wrapS = PT.wrapT = zs;
 const Qt = {
     switchItemDuration: {
